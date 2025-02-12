@@ -9,9 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculatorHomework", "calcu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weekdaysHomework", "weekdaysHomework\weekdaysHomework.csproj", "{18E68F14-CB7A-43DD-A786-4480E2AC8807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divisionByZeroErrorHomework", "divisionByZero\divisionByZeroErrorHomework.csproj", "{FF446AC1-59AB-4216-8FBA-BA6A8CE036C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "divisionByZeroErrorHomework", "divisionByZero\divisionByZeroErrorHomework.csproj", "{FF446AC1-59AB-4216-8FBA-BA6A8CE036C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notDigitErrorHomework", "notDigitErrorHomework\notDigitErrorHomework.csproj", "{7CD22E45-567E-4DD0-B24F-7669BB770D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notDigitErrorHomework", "notDigitErrorHomework\notDigitErrorHomework.csproj", "{7CD22E45-567E-4DD0-B24F-7669BB770D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsHwAvgSalary", "loopsHwAvgSalary\loopsHwAvgSalary.csproj", "{E3B9241E-F6E1-4C5F-9FAC-E85F774328C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsHwFibonacci", "loopsHwFibonacci\loopsHwFibonacci.csproj", "{8D15D8B7-31CF-4457-88F1-280574E6D186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsHwMultiplicationTable", "loopsHwMultiplicationTable\loopsHwMultiplicationTable.csproj", "{9C3D40AA-5B49-41CF-A450-7C0062800B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsHwStars", "loopsHwStars\loopsHwStars.csproj", "{54D9D8C2-9E6D-4CCE-9D1A-AB2B26CD5647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsHwUserPassword", "loopsHwUserPassword\loopsHwUserPassword.csproj", "{8E2E79FC-BCF6-46AE-A087-B8647DC8A288}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{7CD22E45-567E-4DD0-B24F-7669BB770D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD22E45-567E-4DD0-B24F-7669BB770D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD22E45-567E-4DD0-B24F-7669BB770D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B9241E-F6E1-4C5F-9FAC-E85F774328C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B9241E-F6E1-4C5F-9FAC-E85F774328C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B9241E-F6E1-4C5F-9FAC-E85F774328C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B9241E-F6E1-4C5F-9FAC-E85F774328C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D15D8B7-31CF-4457-88F1-280574E6D186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D15D8B7-31CF-4457-88F1-280574E6D186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D15D8B7-31CF-4457-88F1-280574E6D186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D15D8B7-31CF-4457-88F1-280574E6D186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3D40AA-5B49-41CF-A450-7C0062800B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3D40AA-5B49-41CF-A450-7C0062800B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3D40AA-5B49-41CF-A450-7C0062800B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3D40AA-5B49-41CF-A450-7C0062800B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D9D8C2-9E6D-4CCE-9D1A-AB2B26CD5647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D9D8C2-9E6D-4CCE-9D1A-AB2B26CD5647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D9D8C2-9E6D-4CCE-9D1A-AB2B26CD5647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D9D8C2-9E6D-4CCE-9D1A-AB2B26CD5647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2E79FC-BCF6-46AE-A087-B8647DC8A288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2E79FC-BCF6-46AE-A087-B8647DC8A288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2E79FC-BCF6-46AE-A087-B8647DC8A288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2E79FC-BCF6-46AE-A087-B8647DC8A288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
